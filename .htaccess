@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^register?$ register.php
+RewriteRule ^user_records?$ user_records.php
